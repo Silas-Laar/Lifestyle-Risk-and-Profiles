@@ -1,3 +1,2 @@
 # Lifestyle-Risk-and-Profiles
-Obesity Trends and Multibehavior Lifestyle Profiles in the U.S.
 Analyzed 13 years of state-level BRFSS data using fixed-effects panel models and K-means clustering to examine obesity trends and identify multibehavior lifestyle profiles. Found that physical inactivity explained substantial between-state differences in obesity but not within-state changes over time. Identified four reproducible lifestyle-risk profiles with obesity prevalence ranging from 28.1% to 36.1%, demonstrating that composite behavioral profiling captures risk patterns missed by single-indicator surveillance.
